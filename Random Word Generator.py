@@ -15,11 +15,11 @@ def NG():
     N3_list=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,27,18,19,20,21,22,23,24,25,26]
     N4_list=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,27,18,19,20,21,22,23,24,25,26]
     N5_list=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,27,18,19,20,21,22,23,24,25,26]
-    N1_list=random.randint(1,26)
-    N2_list=random.randint(1,26)
-    N3_list=random.randint(1,26)
-    N4_list=random.randint(1,26)
-    N5_list=random.randint(1,26)
+    N1_list=random.randint(0,25)
+    N2_list=random.randint(0,25)
+    N3_list=random.randint(0,25)
+    N4_list=random.randint(0,25)
+    N5_list=random.randint(0,25)
     N1=alpha_list[N1_list]
     N2=alpha_list[N2_list]
     N3=alpha_list[N3_list]
